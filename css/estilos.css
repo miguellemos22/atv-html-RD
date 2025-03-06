@@ -1,0 +1,40 @@
+body{
+    background-color: darkred;
+    color: black;
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+h2{
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+
+hr{
+    width: 55%;
+    height: 8px;
+    background-color: red
+}
+p{
+    width: 55%;
+    margin: auto;
+}
+img{
+    height: 200px;
+}
+.fotos{
+    width: fit-content;
+    margin: auto;
+}
+.videos{
+    width: auto;
+    display: block;
+    margin: auto;
+}
